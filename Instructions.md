@@ -14,6 +14,10 @@
 - Input DOMAIN_NAME, PROJECT_ID and APP_NAME in ./deployment-script/parameters-deploy.sh
 - Run ./deployment-script/deploy-cdn.sh
 
+### Run Terraform Configuration
+
+Run `make help` in terraform-config/ for further instructions
+
 ### Run on GCP Console
 
 1. Create Project.

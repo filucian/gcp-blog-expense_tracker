@@ -1,7 +1,12 @@
-*-react-app/
-
+# OSX Files
 **/.DS_Store
 
+# React starter & dependencies
 **/node_modules
-
+*-react-app/
 **/*vite*
+
+# Terraform files and folders
+**/.terraform
+**/*.tfstate*
+**/*.tfvars
